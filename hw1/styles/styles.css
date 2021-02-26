@@ -1,0 +1,153 @@
+.background-image{
+	background: url("../assets/field.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-size: 30px;
+
+  color: gold;
+}
+
+.background-image2{
+
+
+	background: url("../assets/interception.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family:'bungee';
+
+  color: black;
+}
+
+.background-image3{
+	background: url("../assets/fumble.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family:'bungee';
+}
+
+.background-image4{
+	background: url("../assets/10timer.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family:'bungee';
+
+  text-align: center;
+}
+
+.football-font{
+font-family:'bungee';
+font-size: 100px;
+text-align: center;
+color: white;
+}
+
+.start-font{
+	font-size: 35px;
+	text-align: center;
+}
+
+.start-button{
+	text-align:center;
+}
+
+.info-font{
+	text-align: center;
+	font-family: 'bungee';
+}
+
+.heads-font{
+	text-align: center;
+	font-family: 'bungee';
+}
+
+.interception{
+	text-align: center;
+	font-family:'bungee';
+}
+
+.play2{
+	text-align: center;
+	font-family: 'bungee';
+}
+
+.win{
+	font-family: 'bungee';
+	text-align: center;
+
+	background: url("../assets/fireworks.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  color: white;
+  font-size: 50px;
+}
+
+.fieldGoal{
+	background: url("../assets/fieldGoal.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  text-align: center;
+
+  font-family: 'bungee';
+}
+
+.tails{
+	background: url("../assets/blitz.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	text-align: center;
+
+	color: moccasin;
+	font-size: 21px;
+	font-family: 'bungee';
+}
+
+.sacked{
+		background: url("../assets/sackPlay.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	text-align: center;
+	font-family: 'bungee';
+	color: white;
+	font-size: 40px;
+}
+
+.game-winner{
+		background: url("../assets/lostPlay.gif") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+	text-align: center;
+	font-family: 'bungee';
+	color: white;
+	font-size: 30px;
+}
+
+
+
+
